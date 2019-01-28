@@ -1,2 +1,9 @@
-# code-review-guidelines
-Collection of best practice for code reviews in scientific context
+# Code Review Guidelines for Science
+
+In this repository, we want to collect best practice for code reviews in scientific organizations. We want to focus on:
+- Best practices for reviewers and reviewees
+- Tools suuporting code reviews
+- Scientifc specialities
+
+## License
+The content is licensed under the [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).
